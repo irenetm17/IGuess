@@ -1,3 +1,0 @@
-C:\Users\victs\OneDrive\Documentos\Universidad\2º DDV\IG\Prácticas\Practica 1\P1GLSL\P1GLSL\Debug\P1GLSL.exe
-D:\URJC_24-25\IG\Práctica\Práctica1IG_3_10\P1GLSL\P1GLSL\Debug\P1GLSL.exe
-D:\URJC_24-25\IG\Prác_Clase\Práctica1IG_3_10\P1GLSL\P1GLSL\Debug\P1GLSL.exe
